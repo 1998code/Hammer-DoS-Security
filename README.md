@@ -12,17 +12,25 @@ Coming Soon:
 <hr>
 
 Tutorial (EDU USE):
+
 Step1. Open Heroku or any VPS
+
 Step2. Open & run console / Use ssh to connect the machine
+
 Step3. Use "bash" (Optional)
+
 Step4. # git clone https://github.com/1998code/Hammer-DoS-Security.git
+
 Step5. # dir
+
 Step6. # cd Hammer-DoS-Security
+
 Step7. # python3 hammer.py -s REPLACE_IP_HERE -t 125
+
         (Please noticed that heroku has limited the "t" value <-> thread, so adjust the value if needed)
 
 Example:
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/1998code/Hammer-DoS-Security/master/screenshot.png)
 
 <hr>
 
