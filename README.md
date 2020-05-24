@@ -10,7 +10,7 @@ Coming Soon:
 
 #Environment (FORK)
 
-python 3.3.2+ 
+Python 3.3.2+ 
 
 Version
 1.0
