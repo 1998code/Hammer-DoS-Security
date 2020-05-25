@@ -1,6 +1,8 @@
 # Hammer-DoS-Security
 ## 2020 Version
 
+![Python application](https://github.com/1998code/Hammer-DoS-Security/workflows/Python%20application/badge.svg?branch=master)
+
 This project is used for testing and education purpose only.
 
 Any Contribution are welcome!
