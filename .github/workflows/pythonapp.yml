@@ -20,6 +20,6 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: Test with pytest
+    - name: Test
       run: |
-        python3 hammer.py -s 1998.media -t 125
+        python3 hammer.py -s 1998.media -t 1000
