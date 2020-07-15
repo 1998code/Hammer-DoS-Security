@@ -2,6 +2,7 @@
 ## 2020 Version
 
 ![Python application](https://github.com/1998code/Hammer-DoS-Security/workflows/Python%20application/badge.svg?branch=master)
+![CodeQL](https://github.com/1998code/Hammer-DoS-Security/workflows/CodeQL/badge.svg)
 
 This project is used for testing and education purpose only.
 
